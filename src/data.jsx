@@ -1,0 +1,40 @@
+
+export const Intro=[
+    {
+        id:1,
+    names:"fred",
+    price:"#323",
+    image:"https://images.alphacoders.com/605/thumbbig-605592.webp"
+    },
+    {   
+        id:2,
+    names:"Creed",
+    price:"#323",
+    image:"https://images5.alphacoders.com/587/thumbbig-587597.webp"
+    },
+    {   
+        id:3,
+    names:"ral",
+    price:"#3232",
+    image:"https://images.alphacoders.com/598/thumbbig-598846.webp"
+    },
+    {   
+        id:4,
+    names:"creedral",
+    price:"#323",
+    image:"https://images2.alphacoders.com/516/thumbbig-516664.webp"
+    },
+    {   
+        id:5,
+    names:"eeerd",
+    price:"#2323",
+    image:"https://images4.alphacoders.com/476/thumbbig-47666.webp"
+    },
+    {   
+        id:6,
+    names:"Creed",
+    price:"#323",
+    image:"https://images4.alphacoders.com/476/thumbbig-47698.webp"
+    }
+
+]

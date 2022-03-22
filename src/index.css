@@ -1,0 +1,27 @@
+.home {
+    width: 600px;
+    height: 500px;
+    background-color: azure;
+}
+
+.food {
+    width: 300px;
+    background-color: bisque;
+    float: right;
+    display: flex;
+}
+
+.food div {
+    padding: 10px;
+}
+
+.food div .icon {
+    padding-top: 10px;
+}
+
+img {
+    width: 45px;
+    height: 45px;
+    border-radius: 40px;
+    border: black solid;
+}
